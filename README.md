@@ -1,4 +1,4 @@
-In this practice let's build a **Digital Timer** by applying the concepts we have learned till now.
+**Digital Timer**
 
 ### Refer to image below:
 
